@@ -1,0 +1,18 @@
+crates/cloud-tunnel-client/src/client.rs
+  h_bf19f0f446d5d8 616
+crates/cloud-tunnel-client/src/request_identity.rs
+  h_bf19f0f446d5d8 50,54,95,100,105-109,112,115-116,169,177,179,181,184,231,235,295-296,298,301
+release-notes/unreleased/cloud-tunnel-client-mandatory-target-claim.md
+  h_bf19f0f446d5d8 1-24
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "433e5bde54d058120a1aa3a86dae72ea660203f6",
+  "prompts": {},
+  "humans": {
+    "h_bf19f0f446d5d8": {
+      "author": "Kathir Eswaran <kathircp007@gmail.com>"
+    }
+  }
+}
